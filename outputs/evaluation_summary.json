@@ -1,0 +1,38 @@
+{
+    "total_input_records": 16,
+    "successful_extractions": 16,
+    "failed_extractions": 0,
+    "api_failures": 0,
+    "field_accuracy": {
+        "company": {
+            "correct": 16,
+            "total_successful_extractions": 16,
+            "accuracy_percent": 100.0
+        },
+        "stage": {
+            "correct": 13,
+            "total_successful_extractions": 16,
+            "accuracy_percent": 81.25
+        },
+        "next_step_date": {
+            "correct": 15,
+            "total_successful_extractions": 16,
+            "accuracy_percent": 93.75
+        },
+        "deal_value": {
+            "correct": 16,
+            "total_successful_extractions": 16,
+            "accuracy_percent": 100.0
+        }
+    },
+    "review_classification": {
+        "true_positive": 13,
+        "true_negative": 3,
+        "false_positive": 0,
+        "false_negative": 0,
+        "total_successful_extractions": 16,
+        "accuracy_percent": 100.0
+    },
+    "failure_details": [],
+    "note": "Field accuracy and review classification are calculated only for successful extractions. API failures are reported separately and are not counted as field extraction errors. Results measure agreement with supplied ground truth, not independent proof of extraction quality."
+}

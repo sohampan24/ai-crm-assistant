@@ -1,0 +1,6 @@
+google-genai
+pandas
+pydantic
+python-dotenv
+requests
+pytest

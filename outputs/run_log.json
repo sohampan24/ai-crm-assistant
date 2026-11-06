@@ -1,0 +1,13 @@
+{
+    "number_of_records": 16,
+    "input_tokens": 19155,
+    "output_tokens": 2942,
+    "total_tokens": 22097,
+    "estimated_total_cost": 0.0,
+    "estimated_cost_per_record": 0.0,
+    "pricing": {
+        "input_cost_per_million_tokens": 0.0,
+        "output_cost_per_million_tokens": 0.0
+    },
+    "pricing_note": "Estimated cost based on editable pricing constants. A value of zero means pricing has not been configured."
+}
