@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> edd003d (Update project README)
 
 # AI-Powered CRM Data Entry Assistant
 
