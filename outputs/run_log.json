@@ -1,8 +1,8 @@
 {
     "number_of_records": 16,
     "input_tokens": 19155,
-    "output_tokens": 2942,
-    "total_tokens": 22097,
+    "output_tokens": 2946,
+    "total_tokens": 22101,
     "estimated_total_cost": 0.0,
     "estimated_cost_per_record": 0.0,
     "pricing": {

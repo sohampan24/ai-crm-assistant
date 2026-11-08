@@ -1,17 +1,17 @@
 input_id,extraction_status,failure_reason,company_expected,company_actual,company_correct,stage_expected,stage_actual,stage_correct,next_step_date_expected,next_step_date_actual,next_step_date_correct,deal_value_expected,deal_value_actual,deal_value_correct,review_expected,review_actual,review_correct
-S001,success,,abc,abc,True,qualified,qualified,True,,,True,500000.0,500000.0,True,True,True,True
-S002,success,,abc,abc,True,qualified,qualified,True,,,True,300000.0,300000.0,True,True,True,True
+S001,success,,abc,abc,True,qualified,qualified,True,,,True,,500000.0,False,False,True,False
+S002,success,,abc,abc,True,qualified,qualified,True,,,True,,300000.0,False,False,True,False
 S003,success,,bright solutions,bright solutions,True,qualified,qualified,True,,,True,,,True,False,False,True
 S004,success,,nova technologies,nova technologies,True,proposal,proposal,True,,,True,,,True,False,False,True
-S005,success,,,,True,qualified,qualified,True,2026-11-10,,False,500000.0,500000.0,True,True,True,True
-S006,success,,global tech,global tech,True,qualified,qualified,True,,,True,,,True,True,True,True
-S007,success,,apex systems,apex systems,True,,,True,,,True,,,True,True,True,True
-S008,success,,xyz,xyz,True,qualified,,False,,,True,,,True,True,True,True
-S009,success,,abc,abc,True,lost,lost,True,,,True,,,True,True,True,True
-S010,success,,bright solutions,bright solutions,True,qualified,,False,,,True,,,True,True,True,True
-S011,success,,,,True,proposal,proposal,True,,,True,,,True,True,True,True
-S012,success,,,,True,qualified,qualified,True,,,True,,,True,True,True,True
-S013,success,,global technologies,global technologies,True,qualified,qualified,True,,,True,,,True,True,True,True
-S014,success,,abc,abc,True,qualified,,False,,,True,300000.0,300000.0,True,False,False,True
-S015,success,,bright solutions,bright solutions,True,proposal,proposal,True,,,True,12000.0,12000.0,True,True,True,True
-S016,success,,nova technologies,nova technologies,True,proposal,proposal,True,2026-11-13,2026-11-13,True,,,True,True,True,True
+S005,success,,qualified,,False,2026-11-10,qualified,False,,,True,,500000.0,False,False,True,False
+S006,success,,global tech,global tech,True,qualified,qualified,True,,,True,,,True,False,True,False
+S007,success,,apex systems,apex systems,True,true,,False,,,True,,,True,False,True,False
+S008,success,,xyz,xyz,True,qualified,,False,,,True,,,True,False,True,False
+S009,success,,abc,abc,True,lost,lost,True,,,True,,,True,False,True,False
+S010,success,,bright solutions,bright solutions,True,qualified,,False,,,True,,,True,False,True,False
+S011,success,,proposal,,False,true,proposal,False,,,True,,,True,False,True,False
+S012,success,,qualified,,False,true,qualified,False,,,True,,,True,False,True,False
+S013,success,,global technologies,global technologies,True,qualified,qualified,True,,,True,,,True,False,True,False
+S014,success,,abc,abc,True,qualified,,False,,,True,,300000.0,False,False,False,True
+S015,success,,bright solutions,bright solutions,True,proposal,proposal,True,,,True,,12000.0,False,False,True,False
+S016,success,,nova technologies,nova technologies,True,proposal,proposal,True,2026-11-13,2026-11-13,True,,,True,False,True,False
