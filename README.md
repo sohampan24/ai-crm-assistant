@@ -1,4 +1,4 @@
-AI-Powered CRM Data Entry Assistant
+**AI-Powered CRM Data Entry Assistant**
 
 Assignment: Pick One, Prove It – Option A: CRM Data Entry\
 Submitted by: Soham Panjabi\
