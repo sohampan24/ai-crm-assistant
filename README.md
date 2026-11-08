@@ -1,6 +1,6 @@
 **AI-Powered CRM Data Entry Assistant**
 
-Assignment: Pick One, Prove It – Option A: CRM Data Entry\
+Assignment: CRM Data Entry\
 Submitted by: Soham Panjabi\
 Submitted on: 9 November 2026\
 
@@ -343,7 +343,7 @@ GEMINI_MODEL=gemini-3.6-flash
 
 Replace the placeholder with your own API key. Do not share or upload the `.env` file.
 
-The model name can be changed through the environment variable if a different supported model is required.
+
 
 ## 6. Running the Application
 
