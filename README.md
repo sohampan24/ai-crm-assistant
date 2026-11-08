@@ -1,7 +1,3 @@
-Sure. The previous formatting made too much text appear bold. Below are both documents in plain text with simple headings, normal paragraphs and minimal bold formatting. You can copy and paste them directly into Word and Notepad/VS Code.
-
-## 1. Assignment document – paste into Word
-
 AI-Powered CRM Data Entry Assistant
 
 Assignment: Pick One, Prove It – Option A: CRM Data Entry\
