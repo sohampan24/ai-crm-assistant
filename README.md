@@ -3,7 +3,6 @@
 Assignment: Pick One, Prove It – Option A: CRM Data Entry\
 Submitted by: Soham Panjabi\
 Submitted on: 9 November 2026\
-Video link: [Paste video link]
 
 1. Introduction and Problem
 
